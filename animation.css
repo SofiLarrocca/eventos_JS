@@ -10,9 +10,6 @@
     0% {
     transform: translate3d(0, -300px, 0);
     }
-    80% {
-        transform: translate3d(0, 20px, 0);
-        }
     100% { 
         transform: none;
     }
